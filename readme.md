@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Georgios Anagnostou</h1>
 <h3 align="center">A dedicated & passionate Front End Developer from Greece</h3>
 <br>
-<p align="center"> <a href="https://twitter.com/developedbygeo" target="blank"><img src="https://img.shields.io/twitter/follow/developedbygeo?logo=twitter&style=for-the-badge" alt="developedbygeo" /></a> </p>
+<p align="center"> <a href="https://twitter.com/developedbygeo" target="_blank"><img src="https://img.shields.io/twitter/follow/developedbygeo?logo=twitter&style=for-the-badge" alt="developedbygeo" /></a> </p>
 <br>
 
 - 🔭 I’m currently working on **JavaScript Data Structures and Algorithms**
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/developedbygeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developedbygeo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/georgiosanagnostou93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgiosanagnostou93" height="30" width="40" /></a>
+<a href="https://twitter.com/developedbygeo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developedbygeo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/georgiosanagnostou93" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgiosanagnostou93" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
