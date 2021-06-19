@@ -5,7 +5,7 @@
 <br>
 
 - 🔭 I’m currently working on **JavaScript Data Structures and Algorithms**
-- 🌱 I’m currently learning **JavaScript, React and UI/UX**
+- 🌱 At the moment, learning **JavaScript, React and UI/UX**
 
 - 💬 Ask me about **anything really!**
 
