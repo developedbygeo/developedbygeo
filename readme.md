@@ -1,20 +1,17 @@
 <h1 align="center">Hi 👋, I'm Georgios Anagnostou</h1>
-<h3 align="center">A dedicated & passionate Front End Developer from Greece</h3>
+<h3 align="center">A dedicated & passionate Full-Stack developer in the making</h3>
 <br>
 <p align="center"> <a href="https://twitter.com/developedbygeo" target="_blank"><img src="https://img.shields.io/twitter/follow/developedbygeo?logo=twitter&style=for-the-badge" alt="developedbygeo" /></a> </p>
 <br>
 
 - 🔭 I’m currently working on **JavaScript Data Structures and Algorithms**
-- 🌱 At the moment, learning **JavaScript, React and UI/UX**
+- 🌱 At the moment, I'm learning **JavaScript, React and UI/UX**
 
-- 💬 Ask me about **anything really!**
+- 📄 I am experienced in **Business & Management (MSc) and Media & Communication (BA)**
 
-- 💿 All of my projects are available at **https://github.com/developedbygeo**
-
-- 📄 I am experienced in **Business & Management (MSc) and Communication (BA)**
-
-- 📫 You can reach me at any point through **codingwithgeorge@hotmail.com**
 - ⚡ Fun fact, **I am doing a 360° from business to programming while being community-educated**
+
+- 📫 You can reach me at any point through **codingwithgeorge@hotmail.com** or through my socials.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
