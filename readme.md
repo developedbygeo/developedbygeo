@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://twitter.com/developedbygeo" target="_blank"><img src="https://img.shields.io/twitter/follow/developedbygeo?logo=twitter&style=for-the-badge" alt="developedbygeo" /></a> </p>
 <br>
 
-- 🔭 I’m currently focused on learning **React, Next, Node & MongoDB**.
+- 🔭 I’m currently focused on learning **React, Next.js, Node.js & MongoDB**.
 
 - 📄 I am experienced in **Business & Management (MSc) and Media & Communication (BA)**.
 
