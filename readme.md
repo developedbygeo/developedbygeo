@@ -4,14 +4,13 @@
 <p align="center"> <a href="https://twitter.com/developedbygeo" target="_blank"><img src="https://img.shields.io/twitter/follow/developedbygeo?logo=twitter&style=for-the-badge" alt="developedbygeo" /></a> </p>
 <br>
 
-- 🔭 I’m currently working on **JavaScript Data Structures & Algorithms**.
-- 🌱 At the moment, I'm learning **JavaScript, NodeJS & React**.
+- 🔭 I’m currently focused on learning **React, Next, Node & MongoDB**.
 
 - 📄 I am experienced in **Business & Management (MSc) and Media & Communication (BA)**.
 
-- ⚡ Fun fact, **I am doing a 360° from business to programming while being community-educated**.
+- ⚡ Fun fact, **I am doing a 360° from Business to Full Stack Web Development**.
 
-- 📫 You can reach me at any point through **codingwithgeorge@hotmail.com** or through my social media.
+- 📫 You can reach me at any point through **georgios@developedbygeo.com** or through my social media.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
