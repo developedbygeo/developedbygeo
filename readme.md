@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently focused on learning **React, Next.js, Node.js & MongoDB**.
 
-- 📄 I am experienced in **Business & Management (MSc) and Media & Communication (BA)**.
+- 📄 I have studied **Business & Management (MSc) and Media & Communication (BA)**.
 
 - ⚡ Fun fact, **I am doing a 360° from Business to Full Stack Web Development**.
 
