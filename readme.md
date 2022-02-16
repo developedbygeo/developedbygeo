@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/georgiosanagnostou93" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgiosanagnostou93" height="30" width="40" /></a>
-<a href="https://twitter.com/developedbygeo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developedbygeo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/georgiosanagnostou93" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgiosanagnostou93" height="35" width="45" /></a>
+<a href="https://twitter.com/developedbygeo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developedbygeo" height="32" width="40" /></a>
 <a href="https://medium.com/@developedbygeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@developedbygeo" height="30" width="40" /></a>
 </p>
 
