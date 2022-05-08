@@ -34,5 +34,16 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> </p>
 
   <br>
+  <br>
 
-<p width=100%><img text-align="center" height= 50% width=60% src="https://github-readme-streak-stats.herokuapp.com/?user=developedbygeo" alt="developedbygeo"></p>
+<div align="center">
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developedbygeo&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="developedbygeo stats" /></p>
+ <br>
+
+  <p width=100%><img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developedbygeo&theme=react&hide_border=true" alt="developedbygeo"></p>
+   <br>
+
+   <p>&nbsp;<img align="center" width='400'src="https://github-readme-stats.vercel.app/api/top-langs/?username=developedbygeo&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="developedbygeo most used languages" /></p>
+    <br>
+
+</div>
