@@ -40,9 +40,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=developedbygeo&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="developedbygeo stats" />
  <br>
  <br>
-
 <img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developedbygeo&theme=react&hide_border=true" alt="developedbygeo"/>
-   <br>
-   <br>
-      <p>&nbsp;<img align="center" width='350'src="https://github-readme-stats.vercel.app/api/top-langs/?username=developedbygeo&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="developedbygeo most used languages" /></p>
+<br>
+<br>
+<img align="center" width='350'src="https://github-readme-stats.vercel.app/api/top-langs/?username=developedbygeo&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="developedbygeo most used languages" />
 </p>
