@@ -36,14 +36,12 @@
   <br>
   <br>
 
-<div align="center">
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developedbygeo&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="developedbygeo stats" /></p>
+<p float="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=developedbygeo&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="developedbygeo stats" />
  <br>
 
-  <p width=100%><img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developedbygeo&theme=react&hide_border=true" alt="developedbygeo"></p>
+<img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developedbygeo&theme=react&hide_border=true" alt="developedbygeo"/>
    <br>
-
-   <p>&nbsp;<img align="center" width='400'src="https://github-readme-stats.vercel.app/api/top-langs/?username=developedbygeo&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="developedbygeo most used languages" /></p>
+</p>
+   <p>&nbsp;<img align="center" width='350'src="https://github-readme-stats.vercel.app/api/top-langs/?username=developedbygeo&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="developedbygeo most used languages" /></p>
     <br>
-
-</div>
