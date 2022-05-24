@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Georgios</h1>
+<h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A dedicated & passionate Full Stack Web Developer in the making</h3>
 <br>
 <p align="center"> <a href="https://twitter.com/developedbygeo" target="_blank"><img src="https://img.shields.io/twitter/follow/developedbygeo?logo=twitter&style=for-the-badge" alt="developedbygeo" /></a> </p>
@@ -19,9 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <br>
 <p align="left">
-<a title='LinkedIn Profile' href="https://linkedin.com/in/georgiosanagnostou93" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="georgiosanagnostou93" height="26" width="100" /></a>&nbsp;
-&nbsp;<a title='Twitter Profile' href="https://twitter.com/developedbygeo" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="developedbygeo" height="24" width="100" /></a>&nbsp;
-&nbsp;<a title='Medium Profile' href="https://medium.com/@developedbygeo" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="@developedbygeo" height="26" width="100" /></a>
+<a title='LinkedIn Profile' href="https://linkedin.com/in/georgiosanagnostou93" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="georgiosanagnostou93" height="28" width="100" /></a>&nbsp;
+&nbsp;<a title='Twitter Profile' href="https://twitter.com/developedbygeo" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="developedbygeo" height="29.5" width="100" /></a>&nbsp;
+&nbsp;<a title='Medium Profile' href="https://medium.com/@developedbygeo" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="@developedbygeo" height="30" width="100" /></a>
 </p>
 
 <br>
