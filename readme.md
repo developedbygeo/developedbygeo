@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George</h1>
-<h3 align="center">A dedicated & passionate Full Stack Web Developer in the making</h3>
+<h3 align="center">A dedicated & passionate Front End Web Developer</h3>
 <br>
 <p align="center"> <a href="https://twitter.com/developedbygeo" target="_blank"><img src="https://img.shields.io/twitter/follow/developedbygeo?logo=twitter&style=for-the-badge" alt="developedbygeo" /></a> </p>
 <br>
