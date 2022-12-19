@@ -6,11 +6,9 @@
 
 <br>
 
-- 🔭 I’m currently focused on learning **NextJS & NodeJS**.
+- 🔭 Currently learning more about the **backend**.
 
 - 📄 **Business & Management (MSc)** and **Media & Communication (BA)**.
-
-- ⚡ Currently doing an 180° from Business to **Full Stack Web Development**.
 
 - 📫 You can reach me at any point through **georgios@developedbygeo.com** or through my social media.
 
